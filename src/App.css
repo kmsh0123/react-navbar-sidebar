@@ -11,8 +11,9 @@ input:checked ~ .dot {
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
-.nav:active{
+.active{
     background-color: rgb(212 212 216);
     border-start-end-radius: 9999px;
 	border-end-end-radius: 9999px;
+    color :rgb(25 103 210)
 }
